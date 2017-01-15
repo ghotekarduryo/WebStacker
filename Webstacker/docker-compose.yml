@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  webstacker:
+    image: webstacker
+    build:
+      context: .
+      dockerfile: Dockerfile
