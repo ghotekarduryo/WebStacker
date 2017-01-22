@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26020.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{06942B20-14F3-46EF-828A-74C878FA486D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStacker", "src\WebStacker\WebStacker.csproj", "{59A9E60D-191E-4AB4-88F6-044B6EF0D533}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStacker", "src\WebStacker\WebStacker.sln", "{59A9E60D-191E-4AB4-88F6-044B6EF0D533}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
