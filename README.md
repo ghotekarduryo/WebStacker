@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/SpawnTree/WebStacker/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [![npm package](https://img.shields.io/npm/v/material-ui.svg?style=flat-square)](https://www.npmjs.org/package/material-ui)
-[![Build Status](https://travis-ci.org/SpawnTree/WebStacker.svg?branch=master)
+![Build Status](https://travis-ci.org/SpawnTree/WebStacker.svg?branch=master)
 
 ### Markdown
 
