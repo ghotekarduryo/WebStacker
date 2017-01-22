@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [![npm package](https://img.shields.io/npm/v/material-ui.svg?style=flat-square)](https://www.npmjs.org/package/material-ui)
 
-[![Build Status](https://travis-ci.org/SpawnTree/WebStacker.svg?branch=master)
+![Build Status](https://travis-ci.org/SpawnTree/WebStacker.svg?branch=master)
 
 ### Markdown
 
